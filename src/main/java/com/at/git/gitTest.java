@@ -10,5 +10,6 @@ public class gitTest {
         System.out.println("hot-fix text");
         System.out.println("push text");
         System.out.println("pull text");
+        System.out.println("gitee text");
     }
 }
